@@ -30,7 +30,7 @@ Durante esse processo, alguns insights e possibilidades interessantes surgiram:
 Em resumo, minha jornada com o Language Studio foi enriquecedora e me proporcionou uma visão mais profunda sobre como a análise de texto pode ser aplicada para entender e atender às necessidades dos usuários. Estou ansioso para explorar mais as capacidades desta ferramenta incrível no futuro!
 
 
-- **Veja alguns exemplos que criei:
+- **Veja alguns exemplos que criei**:
 
 ![Imagem](https://github.com/diiggoo/dio-bootcamp-ai-lab3/blob/main/outputs/1.png?raw=true)
 ![Imagem](https://github.com/diiggoo/dio-bootcamp-ai-lab3/blob/main/outputs/2.jpg?raw=true)
